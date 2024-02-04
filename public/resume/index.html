@@ -262,36 +262,36 @@
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-26240cee">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-26240cee">
-        <div class="pdf-loading" id="pdf-loading-26240cee"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-9ec5545f">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-9ec5545f">
+        <div class="pdf-loading" id="pdf-loading-9ec5545f"></div>
     </div>
     <div id="overlayText">
-      <a href="https://shubhampai99.github.io/images/ShubhamResumeDevOps.pdf" aria-label="Download" download>
+      <a href="https://shubhampai99.github.io/website/files/ShubhamResumeDevOps.pdf" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-26240cee"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-9ec5545f"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-26240cee">
-    <button id="pdf-prev-26240cee">Previous</button>
-    <button id="pdf-next-26240cee">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-9ec5545f">
+    <button id="pdf-prev-9ec5545f">Previous</button>
+    <button id="pdf-next-9ec5545f">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-26240cee"></span> / <span class="pdf-pagecount" id="pdf-pagecount-26240cee"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-9ec5545f"></span> / <span class="pdf-pagecount" id="pdf-pagecount-9ec5545f"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-26240cee" href="https://shubhampai99.github.io/images/ShubhamResumeDevOps.pdf">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-9ec5545f" href="https://shubhampai99.github.io/website/files/ShubhamResumeDevOps.pdf">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-26240cee" href="https://shubhampai99.github.io/images/ShubhamResumeDevOps.pdf">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-9ec5545f" href="https://shubhampai99.github.io/website/files/ShubhamResumeDevOps.pdf">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = '\/images\/ShubhamResumeDevOps.pdf';
+    var url = '\/website\/files\/ShubhamResumeDevOps.pdf';
 
     var hidePaginator = "true" === "true";
     var hideLoader = "" === "true";
@@ -310,10 +310,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-26240cee" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-26240cee'),
+        canvas = document.getElementById('pdf-canvas-9ec5545f'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-26240cee"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-26240cee');
+        paginator = document.getElementById("pdf-paginator-9ec5545f"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-9ec5545f');
 
 
     
@@ -351,7 +351,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-26240cee" href="
       });
 
       
-      document.getElementById('pdf-pagenum-26240cee').textContent = num;
+      document.getElementById('pdf-pagenum-9ec5545f').textContent = num;
     }
 
     
@@ -395,7 +395,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-26240cee" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-26240cee').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-9ec5545f').addEventListener('click', onPrevPage);
 
     
 
@@ -406,14 +406,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-26240cee" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-26240cee').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-9ec5545f').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-26240cee').textContent = numPages;
+      document.getElementById('pdf-pagecount-9ec5545f').textContent = numPages;
 
       
       if(pageNum > numPages) {
