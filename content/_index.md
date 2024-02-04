@@ -5,7 +5,6 @@ theme_version: '2.8.2'
 menus: 'main'
 cascade:
   featured_image: '/images/grand_canyon/header_GrandCanyon-RimTrail.jpeg'
-  #featured_image: '/images/RockyMtn-GlassLake.jpg'
 ---
 My name is Shubham (Shuh-bum)! I am a Digital DevSecOps Engineer at The Cigna Group as part of the TECDP rotational program.
 
