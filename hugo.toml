@@ -1,7 +1,7 @@
 title = "Shubham Pai"
 baseURL = "https://shubhampai.com"
 languageCode = "en-us"
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
