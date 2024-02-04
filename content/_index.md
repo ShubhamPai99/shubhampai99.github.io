@@ -6,7 +6,7 @@ menus: 'main'
 cascade:
   featured_image: '/images/grand_canyon/header_GrandCanyon-RimTrail.jpeg'
 ---
-My name is Shubham (Shuh-bum)! I am a Digital DevSecOps Engineer at The Cigna Group.
+My name is Shubham (Shuh-bum)! I also go by `shubs`. I am a Digital DevSecOps Engineer at The Cigna Group.
 
 ![A picture of me](/images/option3.jpg)
 ## Terraform :bridge_at_night:
