@@ -1,5 +1,5 @@
 title = "Shubham Pai"
-baseURL = "https://blah.com"
+baseURL = "https://shubhampai99.github.io"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
