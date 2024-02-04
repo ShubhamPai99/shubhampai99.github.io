@@ -5,10 +5,15 @@ tags: []
 featured_image: "/images/yosemite/header_Yosemite-TunnelView.jpg"
 description: ""
 ---
+### Yosemite National Park
+Tunnel View
 ![1](/images/yosemite/Yosemite-TunnelView.jpg)
 
+El Capitan at sunset
 ![2](/images/yosemite/Yosemite-ElCapSunset.jpg)
 
+I highly reccomend visiting Sentinel Dome (enroute to Glacier Point). It's a ~2mi roundtrip hike. It was a cloudy day so we weren't able to see the sunset, but seeing the clouds move around us was so magnificent. 
 ![3](/images/yosemite/Yosemite-SentinelDomeCHAD.jpg)
 
+A view while enroute to the park. 
 ![4](/images/yosemite/Yosemite-DrivingOverlook.jpg)

@@ -5,6 +5,7 @@ tags: []
 featured_image: "/images/connecticut/header_FarmingtonRiver.jpg"
 description: ""
 ---
+### This is a compilation of various pictures I've taken in Connecticut
 The Farmington River
 ![1](/images/connecticut/FarmingtonRiver.jpg)
 
