@@ -19,10 +19,10 @@ My strongest imperative programming language is Python. I've been programming in
 I learned Bash since joining Cigna and, although I still have to constantly look up sed, grep, and regex documentation, it's lightweight and powerful. I find myself using Bash for just about every project I use.
 
 ## Pipelines :construction_worker:
-I wouldn't work in DevOps if I've never built a pipeline, right? I've worked with Jenkins, CloudBees, and, more recently, GitLab CICD. I've fell in love with GitLab CICD and I have a feeling I'll be soon falling in love in GitHub Actions :wink:
+I wouldn't work in DevOps if I've never built a pipeline, right? I've worked with Jenkins, CloudBees, and, more recently, GitLab CICD. I've fell in love with GitLab CICD and I have a feeling I'll be soon falling in love in GitHub Actions.
 
 ## Docker :whale:
 In my opinion one of the best ways to minimize complexity across environments. Being able to grab an image and run Docker has made testing easier and locally running projects more consistent.
 
 ## Other Things About Me :sunflower: :tropical_drink: :airplane: :sunrise_over_mountains:
-In my free time I am an avid gardener, kombucha brewer, and aspiring private pilot. I also enjoy visiting U.S. National Parks and hope you enjoy my favorite pictures from each one (Yes, I photographed every picture on this site)!
+In my free time I am an avid gardener, kombucha brewer, and aspiring private pilot. I also enjoy visiting U.S. National Parks and hope you enjoy my favorite pictures from each one (I photographed every picture on this site)!
