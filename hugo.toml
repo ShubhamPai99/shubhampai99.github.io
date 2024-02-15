@@ -32,14 +32,7 @@ canonifyURLs = true
     name = 'Home'
     pageRef = '/'
     weight = 10
-[[menus.main]]
-    name = 'Resume'
-    pageRef = '/resume'
-    weight = 20
-[[menus.main]]
-    name = 'Contact'
-    pageRef = '/contact'
-    weight = 30
+
 
 [[params.ananke_socials]]
 name = "linkedin"
