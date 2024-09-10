@@ -24,6 +24,7 @@ And what makes fermentation interesting is that sometimes 1) you introduce the b
 
 ## The Kombucha Making Process
 
+This recipe is derived from [brewbuch.com](https://brewbuch.com/how-to-make-kombucha/). I highly suggest reading their website! My recipe just differs by timing, but that guide is super comprehensive of the whole process!
 Kombucha involves a 2 step process before you can start enjoying your own:
 1. First Fermentation
 - In this fermentation, you brew sugary tea and mix it with a kombucha SCOBY (**S**ymbiotic **C**ulture **O**f **B**acteria and **Y**east). This fermentation typically takes ~1-6 weeks depending on your environment.
@@ -32,7 +33,7 @@ Kombucha involves a 2 step process before you can start enjoying your own:
 
 ## Materials you need (makes 1 gallon of kombucha)
 - A 1-2 gallon jar
-- 6-8 Sealable 16oz glass bottles **safe for carbonting**. Note that [Ikea glassware generally not considered safe for carbonating](https://www.reddit.com/r/Homebrewing/comments/1j9e2z/has_anyone_tried_bottling_with_these_ikea_bottles/)
+- 6-8 Sealable 16oz glass bottles **safe for carbonting**. Note that [Ikea glassware is generally not considered safe for carbonating](https://www.reddit.com/r/Homebrewing/comments/1j9e2z/has_anyone_tried_bottling_with_these_ikea_bottles/)
 - 14 cups of water
 - Tea (loose leaf or 8 tea bags)
 - 1 cup sugar
@@ -94,6 +95,6 @@ My favorite flavors:
 - [Mint Cheong](https://www.youtube.com/watch?v=KixQsFkAWN4). The syrup was good, but I never cracked a fruit that mixed well with peppermint flavor.
 - Cloves are an interesting aromatic to use! But limit your use to 1-2 cloves per 16oz. Otherwise, they give a bitter/vodka-y taste that's very unpleasant.
 
-Flavor I have yet to try:
+Flavors I have yet to try:
 - Lemon and Jalapeno (for a spicy margarita vibe)
 - I really do want to crack the mint/fruit combo!

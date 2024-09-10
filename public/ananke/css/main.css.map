@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/18607/shubhampai99.github.io",
+	"sourceRoot": "/Users/spai/Documents/shubhampai99.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
