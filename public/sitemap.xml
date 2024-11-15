@@ -2,91 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://shubhampai.com/</loc>
     <lastmod>2024-09-09T21:21:36-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/photo/grand_teton/</loc>
+    <loc>https://shubhampai.com/photo/grand_teton/</loc>
     <lastmod>2024-09-09T21:21:36-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/photo/</loc>
+    <loc>https://shubhampai.com/photo/</loc>
     <lastmod>2024-09-09T21:21:36-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/photo/yellowstone/</loc>
+    <loc>https://shubhampai.com/photo/yellowstone/</loc>
     <lastmod>2024-09-09T21:21:26-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/a_fun_monitoring_story/</loc>
+    <loc>https://shubhampai.com/posts/kombucha/</loc>
     <lastmod>2024-02-04T19:19:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/kombucha/</loc>
+    <loc>https://shubhampai.com/posts/temperature_control_dashes/</loc>
     <lastmod>2024-02-04T19:19:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/temperature_control_dashes/</loc>
+    <loc>https://shubhampai.com/posts/</loc>
     <lastmod>2024-02-04T19:19:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-02-04T19:19:14-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/photo/joshua_tree/</loc>
+    <loc>https://shubhampai.com/photo/joshua_tree/</loc>
     <lastmod>2024-02-03T19:48:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/photo/death_valley/</loc>
+    <loc>https://shubhampai.com/photo/death_valley/</loc>
     <lastmod>2024-02-03T19:48:32-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/photo/connecticut/</loc>
+    <loc>https://shubhampai.com/photo/connecticut/</loc>
     <lastmod>2024-02-03T19:48:24-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/photo/yosemite/</loc>
+    <loc>https://shubhampai.com/photo/yosemite/</loc>
     <lastmod>2024-02-03T19:43:26-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/photo/rocky_mountain/</loc>
+    <loc>https://shubhampai.com/photo/rocky_mountain/</loc>
     <lastmod>2024-02-03T19:43:17-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/photo/grand_canyon/</loc>
+    <loc>https://shubhampai.com/photo/grand_canyon/</loc>
     <lastmod>2024-02-03T19:41:29-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://shubhampai.com/resume/</loc>
     <lastmod>2024-02-03T16:39:38-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://shubhampai.com/contact/</loc>
     <lastmod>2024-02-03T16:27:55-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://shubhampai.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://shubhampai.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

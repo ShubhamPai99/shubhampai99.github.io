@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Shubham Pai</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://shubhampai.com/posts/</link>
     <description>Recent content in Posts on Shubham Pai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Feb 2024 19:19:14 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Fun Monitoring Story</title>
-      <link>http://localhost:1313/posts/a_fun_monitoring_story/</link>
-      <pubDate>Sun, 04 Feb 2024 19:19:14 -0500</pubDate>
-      <guid>http://localhost:1313/posts/a_fun_monitoring_story/</guid>
-      <description>&lt;p&gt;A couple weeks ago I was approached by an application team whose Lambda alarm was constantly going off in our alerts webex channel.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;LAMBDA-NAME-prod-Lambda-Duration&#xA;Alarm Description: Lambda Duration &amp;gt; 80&#xA;------------------------------------------&#xA;Threshold crossed on 2 datapoints: [600, 1400] were &amp;gt;= the threshold [24.0]&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;First, I checked AWS cloudwatch alarm and, indeed, the lambda datapoints were well over the threshold. Then I went into the cloudwatch logs and the runtimes weren&amp;rsquo;t erroring or giving any warn messages.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://shubhampai.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Make Kombucha!</title>
-      <link>http://localhost:1313/posts/kombucha/</link>
+      <link>https://shubhampai.com/posts/kombucha/</link>
       <pubDate>Sun, 04 Feb 2024 19:19:14 -0500</pubDate>
-      <guid>http://localhost:1313/posts/kombucha/</guid>
+      <guid>https://shubhampai.com/posts/kombucha/</guid>
       <description>&lt;p&gt;Kombucha, simply put, is a fermented tea. It has gained popularity amongst my generation and has a big following. In my experience, it, like beer, is an acquired taste. I happen to like it a lot, but I can understand how it&amp;rsquo;s not really other peoples&amp;rsquo; cup of tea! Others drink it for its so-called health properties, like the &lt;a href=&#34;https://www.perkii.com/blogs/news/kombucha-vs-probiotic-drinks-what-s-the-difference#:~:text=However%2C%20recent%20research%20into%20kombucha,the%20end%20of%20shelf%20life&#34;&gt;millions of probiotics&lt;/a&gt; it contains. I don&amp;rsquo;t drink it for the health benefits- I like to drink juice and carbonated things&amp;hellip;and this is a great combination of the two. Storebought kombucha retails for ~$2.50/bottle, whereas you can make the same amount for a less than a third of the price and an hour of your time a week.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modern Vehicle Climate Control Interfaces Need to Change</title>
-      <link>http://localhost:1313/posts/temperature_control_dashes/</link>
+      <link>https://shubhampai.com/posts/temperature_control_dashes/</link>
       <pubDate>Sun, 04 Feb 2024 19:19:14 -0500</pubDate>
-      <guid>http://localhost:1313/posts/temperature_control_dashes/</guid>
+      <guid>https://shubhampai.com/posts/temperature_control_dashes/</guid>
       <description>&lt;p&gt;Digital technology has impacted and continues to impact our lives in many ways. From the smartphone to doorbell cameras, technology has evolved the way we think, work, and socialize. However, technology &lt;em&gt;can&lt;/em&gt; be a nuisance. It can be distracting, infringe on our privacy, or even impair us from being able to just work. I want to focus specifically on the technology that is integrated into cars, specifically the climate control interface found in cars. For me, the first car that had a digital display was a 2015 Honda Accord. And it was cool to have at the time. The ability to connect your phone to bluetooth, a fancy digital display, setting your cabin temperature to a &lt;em&gt;number&lt;/em&gt;. However, as I&amp;rsquo;ve grown up and started using this technology &lt;em&gt;while driving&lt;/em&gt;, it&amp;rsquo;s come to my attention that the interface is just&amp;hellip;bad.&lt;/p&gt;</description>
     </item>
   </channel>
