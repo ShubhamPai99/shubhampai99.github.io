@@ -26,4 +26,4 @@ In my opinion one of the best ways to minimize complexity across environments. B
 
 ## Other Things About Me :sunflower: :tropical_drink: :airplane: :sunrise_over_mountains:
 In my free time I am an avid gardener, kombucha brewer, and aspiring private pilot. I also enjoy visiting U.S. National Parks and hope you enjoy my favorite pictures from each one (I photographed every picture on this site)!
-![The plane I trained in](/images/plane.png)
+![The plane I trained in](/images/airplane.jpg)
